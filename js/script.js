@@ -145,4 +145,6 @@ $(function(){
         }//if
     })
 
+    // main_5영역
+
 })//jquery
